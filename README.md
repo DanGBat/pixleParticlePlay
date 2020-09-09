@@ -1,4 +1,6 @@
-WORKING TILE: PARTICLE PLAY
+
+
+WORKING TILE: PIXLE PARTICLE PLAY
 
 This is a very inventive little visual effect based program which
 tracks the movement of the mouse pointer using an 'EventListener'.
